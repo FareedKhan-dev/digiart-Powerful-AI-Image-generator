@@ -1,10 +1,7 @@
 # DigiArt - Stable Diffusion
 ## Generate AI image from text, only for personal use
 #### Please refrain from using the generated images from this project on any social networks or attempting to resell them, as this could result in legal action. The purpose of this project is to evaluate the effectiveness of stable diffusion and it is built upon the clipdro demo webapp found online
-
-![logo](https://i.ibb.co/7Rb9rJg/image.png)
-
-
+<img src="https://i.ibb.co/xJfRZSb/image.png" width=700>
 
 ![License](https://img.shields.io/badge/license-Non%20Commercial-blue)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
